@@ -1,0 +1,10 @@
+
+Resistorer
+----------------------
+orange-orange-svart-svart-brun : 330 ohm
+
+grön-blå-svart-svart-brun: 560 ohm
+
+brun-svart-svart-röd-brun: 10 k(ohm)
+
+brun-svart-svart-blå-grön : 1k (ohm)
