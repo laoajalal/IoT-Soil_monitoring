@@ -1,0 +1,16 @@
+
+
+// Set up mqtt mosquitto broker
+https://obrienlabs.net/how-to-setup-your-own-mqtt-broker/
+
+//Study guide 
+https://hackmd.io/@lnu-iot/study-guide-2021
+
+//Good project examples
+https://hackmd.io/@lnu-iot/good-examples
+
+//My project hackmd
+https://hackmd.io/CaIHlUB0SvShYkO2ZGeNNA
+
+//Hackmd tutorials
+https://hackmd.io/@lnu-iot
